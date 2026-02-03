@@ -2,6 +2,8 @@
   "manifest_version": 3,
   "version": "1.0",
   "name": "Tokyo Night Theme",
+  "description": "A clean, dark theme inspired by the Tokyo Night color palette",
+  "author": "masaki39",
   "theme": {
     "colors": {
       "frame": [
@@ -99,6 +101,9 @@
         154,
         247
       ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
     }
   }
 }
