@@ -1,0 +1,13 @@
+# Chrome theme cache files
+*.pak
+Cached Theme.pak
+
+# macOS
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
