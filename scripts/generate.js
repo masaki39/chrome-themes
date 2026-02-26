@@ -85,6 +85,7 @@ function buildManifest(theme) {
   const fg           = hexToRgb(palette.fg);
   const fgMuted      = hexToRgb(palette.fg_muted);
   const accent       = hexToRgb(palette.accent);
+  const accent2      = hexToRgb(palette.accent2);
 
   const frameInactive          = dark ? lighten(bg, 0.03)          : darken(bg, 0.03);
   const frameIncognitoInactive = dark ? lighten(bgHighlight, 0.03) : darken(bgHighlight, 0.03);
@@ -98,7 +99,7 @@ function buildManifest(theme) {
     toolbar:                                  bgAlt,
     toolbar_text:                             fg,
     toolbar_button_icon:                      fgMuted,
-    tab_text:                                 accent,
+    tab_text:                                 accent2,
     tab_background_text:                      fg,
     background_tab:                           bgAlt,
     background_tab_text:                      fgMuted,
@@ -110,7 +111,7 @@ function buildManifest(theme) {
     ntp_link:                                 accent,
     ntp_section:                              bgHighlight,
     ntp_section_text:                         fgMuted,
-    ntp_header:                               accent,
+    ntp_header:                               accent2,
     omnibox_background:                       bgAlt,
     omnibox_text:                             fg,
     omnibox_results_background:               bgAlt,
@@ -155,11 +156,11 @@ function buildReadme(themes) {
   const rows = (list) => list.map(t => {
     const p = t.palette;
     const swatch = (hex) => `\`${hex}\``;
-    return `| [${t.name}](themes/${t.id}/) | ${swatch(p.bg)} | ${swatch(p.bg_alt)} | ${swatch(p.bg_highlight)} | ${swatch(p.fg)} | ${swatch(p.fg_muted)} | ${swatch(p.accent)} |`;
+    return `| [${t.name}](themes/${t.id}/) | ${swatch(p.bg)} | ${swatch(p.bg_alt)} | ${swatch(p.bg_highlight)} | ${swatch(p.fg)} | ${swatch(p.fg_muted)} | ${swatch(p.accent)} | ${swatch(p.accent2)} |`;
   }).join('\n');
 
-  const header = `| Theme | bg | bg_alt | bg_highlight | fg | fg_muted | accent |
-|---|---|---|---|---|---|---|`;
+  const header = `| Theme | bg | bg_alt | bg_highlight | fg | fg_muted | accent | accent2 |
+|---|---|---|---|---|---|---|---|`;
 
   return `# Chrome Themes
 
@@ -206,13 +207,9 @@ node scripts/generate.js --dry-run
 
 ## Adding a New Theme
 
-1. Add an entry to \`db/themes.json\` with the 6 palette colors
+1. Add an entry to \`db/themes.json\` with the 7 palette colors
 2. Run \`node scripts/generate.js --readme\`
 3. Load \`themes/<your-theme-id>/\` in Chrome to test
-
-## Reference Implementation
-
-\`tokyo-night/\` is a hand-crafted reference implementation kept unchanged.
 `;
 }
 
