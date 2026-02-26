@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Ayu Dark Theme",
+  "description": "Modern dark theme with vibrant orange accents",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        13,
+        16,
+        23
+      ],
+      "frame_inactive": [
+        19,
+        23,
+        33
+      ],
+      "frame_incognito": [
+        31,
+        36,
+        48
+      ],
+      "frame_incognito_inactive": [
+        37,
+        43,
+        57
+      ],
+      "toolbar": [
+        19,
+        23,
+        33
+      ],
+      "toolbar_text": [
+        191,
+        189,
+        182
+      ],
+      "toolbar_button_icon": [
+        92,
+        103,
+        115
+      ],
+      "tab_text": [
+        255,
+        143,
+        64
+      ],
+      "tab_background_text": [
+        191,
+        189,
+        182
+      ],
+      "background_tab": [
+        19,
+        23,
+        33
+      ],
+      "background_tab_text": [
+        92,
+        103,
+        115
+      ],
+      "background_tab_inactive": [
+        19,
+        23,
+        33
+      ],
+      "background_tab_incognito": [
+        31,
+        36,
+        48
+      ],
+      "background_tab_incognito_inactive": [
+        31,
+        36,
+        48
+      ],
+      "ntp_background": [
+        13,
+        16,
+        23
+      ],
+      "ntp_text": [
+        191,
+        189,
+        182
+      ],
+      "ntp_link": [
+        255,
+        143,
+        64
+      ],
+      "ntp_section": [
+        31,
+        36,
+        48
+      ],
+      "ntp_section_text": [
+        92,
+        103,
+        115
+      ],
+      "ntp_header": [
+        255,
+        143,
+        64
+      ],
+      "omnibox_background": [
+        19,
+        23,
+        33
+      ],
+      "omnibox_text": [
+        191,
+        189,
+        182
+      ],
+      "omnibox_results_background": [
+        19,
+        23,
+        33
+      ],
+      "omnibox_results_background_hovered": [
+        31,
+        36,
+        48
+      ],
+      "omnibox_results_background_selected": [
+        86,
+        54,
+        35
+      ],
+      "omnibox_results_text": [
+        191,
+        189,
+        182
+      ],
+      "omnibox_results_url": [
+        255,
+        143,
+        64
+      ],
+      "omnibox_results_text_dimmed": [
+        92,
+        103,
+        115
+      ],
+      "bookmark_text": [
+        255,
+        143,
+        64
+      ],
+      "button_background": [
+        31,
+        36,
+        48
+      ],
+      "control_button_background": [
+        31,
+        36,
+        48
+      ],
+      "sidebar_background": [
+        19,
+        23,
+        33
+      ],
+      "sidebar_text": [
+        191,
+        189,
+        182
+      ],
+      "sidebar_border": [
+        31,
+        36,
+        48
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Kanagawa Theme",
+  "description": "Japanese woodblock print inspired dark theme",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        31,
+        31,
+        40
+      ],
+      "frame_inactive": [
+        38,
+        38,
+        49
+      ],
+      "frame_incognito": [
+        42,
+        42,
+        55
+      ],
+      "frame_incognito_inactive": [
+        49,
+        49,
+        64
+      ],
+      "toolbar": [
+        22,
+        22,
+        29
+      ],
+      "toolbar_text": [
+        220,
+        215,
+        186
+      ],
+      "toolbar_button_icon": [
+        114,
+        113,
+        105
+      ],
+      "tab_text": [
+        126,
+        156,
+        216
+      ],
+      "tab_background_text": [
+        220,
+        215,
+        186
+      ],
+      "background_tab": [
+        22,
+        22,
+        29
+      ],
+      "background_tab_text": [
+        114,
+        113,
+        105
+      ],
+      "background_tab_inactive": [
+        22,
+        22,
+        29
+      ],
+      "background_tab_incognito": [
+        42,
+        42,
+        55
+      ],
+      "background_tab_incognito_inactive": [
+        42,
+        42,
+        55
+      ],
+      "ntp_background": [
+        31,
+        31,
+        40
+      ],
+      "ntp_text": [
+        220,
+        215,
+        186
+      ],
+      "ntp_link": [
+        126,
+        156,
+        216
+      ],
+      "ntp_section": [
+        42,
+        42,
+        55
+      ],
+      "ntp_section_text": [
+        114,
+        113,
+        105
+      ],
+      "ntp_header": [
+        126,
+        156,
+        216
+      ],
+      "omnibox_background": [
+        22,
+        22,
+        29
+      ],
+      "omnibox_text": [
+        220,
+        215,
+        186
+      ],
+      "omnibox_results_background": [
+        22,
+        22,
+        29
+      ],
+      "omnibox_results_background_hovered": [
+        42,
+        42,
+        55
+      ],
+      "omnibox_results_background_selected": [
+        60,
+        69,
+        93
+      ],
+      "omnibox_results_text": [
+        220,
+        215,
+        186
+      ],
+      "omnibox_results_url": [
+        126,
+        156,
+        216
+      ],
+      "omnibox_results_text_dimmed": [
+        114,
+        113,
+        105
+      ],
+      "bookmark_text": [
+        126,
+        156,
+        216
+      ],
+      "button_background": [
+        42,
+        42,
+        55
+      ],
+      "control_button_background": [
+        42,
+        42,
+        55
+      ],
+      "sidebar_background": [
+        22,
+        22,
+        29
+      ],
+      "sidebar_text": [
+        220,
+        215,
+        186
+      ],
+      "sidebar_border": [
+        42,
+        42,
+        55
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

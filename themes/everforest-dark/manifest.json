@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Everforest Dark Theme",
+  "description": "Comfortable green-based dark theme inspired by nature",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        45,
+        53,
+        59
+      ],
+      "frame_inactive": [
+        52,
+        61,
+        68
+      ],
+      "frame_incognito": [
+        61,
+        72,
+        77
+      ],
+      "frame_incognito_inactive": [
+        68,
+        80,
+        86
+      ],
+      "toolbar": [
+        39,
+        46,
+        51
+      ],
+      "toolbar_text": [
+        211,
+        198,
+        170
+      ],
+      "toolbar_button_icon": [
+        122,
+        132,
+        120
+      ],
+      "tab_text": [
+        167,
+        192,
+        128
+      ],
+      "tab_background_text": [
+        211,
+        198,
+        170
+      ],
+      "background_tab": [
+        39,
+        46,
+        51
+      ],
+      "background_tab_text": [
+        122,
+        132,
+        120
+      ],
+      "background_tab_inactive": [
+        39,
+        46,
+        51
+      ],
+      "background_tab_incognito": [
+        61,
+        72,
+        77
+      ],
+      "background_tab_incognito_inactive": [
+        61,
+        72,
+        77
+      ],
+      "ntp_background": [
+        45,
+        53,
+        59
+      ],
+      "ntp_text": [
+        211,
+        198,
+        170
+      ],
+      "ntp_link": [
+        167,
+        192,
+        128
+      ],
+      "ntp_section": [
+        61,
+        72,
+        77
+      ],
+      "ntp_section_text": [
+        122,
+        132,
+        120
+      ],
+      "ntp_header": [
+        167,
+        192,
+        128
+      ],
+      "omnibox_background": [
+        39,
+        46,
+        51
+      ],
+      "omnibox_text": [
+        211,
+        198,
+        170
+      ],
+      "omnibox_results_background": [
+        39,
+        46,
+        51
+      ],
+      "omnibox_results_background_hovered": [
+        61,
+        72,
+        77
+      ],
+      "omnibox_results_background_selected": [
+        82,
+        95,
+        80
+      ],
+      "omnibox_results_text": [
+        211,
+        198,
+        170
+      ],
+      "omnibox_results_url": [
+        167,
+        192,
+        128
+      ],
+      "omnibox_results_text_dimmed": [
+        122,
+        132,
+        120
+      ],
+      "bookmark_text": [
+        167,
+        192,
+        128
+      ],
+      "button_background": [
+        61,
+        72,
+        77
+      ],
+      "control_button_background": [
+        61,
+        72,
+        77
+      ],
+      "sidebar_background": [
+        39,
+        46,
+        51
+      ],
+      "sidebar_text": [
+        211,
+        198,
+        170
+      ],
+      "sidebar_border": [
+        61,
+        72,
+        77
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

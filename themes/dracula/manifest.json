@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Dracula Theme",
+  "description": "A dark theme with vibrant purple and pink accents",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        40,
+        42,
+        54
+      ],
+      "frame_inactive": [
+        47,
+        49,
+        63
+      ],
+      "frame_incognito": [
+        68,
+        71,
+        90
+      ],
+      "frame_incognito_inactive": [
+        75,
+        78,
+        99
+      ],
+      "toolbar": [
+        33,
+        34,
+        44
+      ],
+      "toolbar_text": [
+        248,
+        248,
+        242
+      ],
+      "toolbar_button_icon": [
+        98,
+        114,
+        164
+      ],
+      "tab_text": [
+        189,
+        147,
+        249
+      ],
+      "tab_background_text": [
+        248,
+        248,
+        242
+      ],
+      "background_tab": [
+        33,
+        34,
+        44
+      ],
+      "background_tab_text": [
+        98,
+        114,
+        164
+      ],
+      "background_tab_inactive": [
+        33,
+        34,
+        44
+      ],
+      "background_tab_incognito": [
+        68,
+        71,
+        90
+      ],
+      "background_tab_incognito_inactive": [
+        68,
+        71,
+        90
+      ],
+      "ntp_background": [
+        40,
+        42,
+        54
+      ],
+      "ntp_text": [
+        248,
+        248,
+        242
+      ],
+      "ntp_link": [
+        189,
+        147,
+        249
+      ],
+      "ntp_section": [
+        68,
+        71,
+        90
+      ],
+      "ntp_section_text": [
+        98,
+        114,
+        164
+      ],
+      "ntp_header": [
+        189,
+        147,
+        249
+      ],
+      "omnibox_background": [
+        33,
+        34,
+        44
+      ],
+      "omnibox_text": [
+        248,
+        248,
+        242
+      ],
+      "omnibox_results_background": [
+        33,
+        34,
+        44
+      ],
+      "omnibox_results_background_hovered": [
+        68,
+        71,
+        90
+      ],
+      "omnibox_results_background_selected": [
+        85,
+        74,
+        113
+      ],
+      "omnibox_results_text": [
+        248,
+        248,
+        242
+      ],
+      "omnibox_results_url": [
+        189,
+        147,
+        249
+      ],
+      "omnibox_results_text_dimmed": [
+        98,
+        114,
+        164
+      ],
+      "bookmark_text": [
+        189,
+        147,
+        249
+      ],
+      "button_background": [
+        68,
+        71,
+        90
+      ],
+      "control_button_background": [
+        68,
+        71,
+        90
+      ],
+      "sidebar_background": [
+        33,
+        34,
+        44
+      ],
+      "sidebar_text": [
+        248,
+        248,
+        242
+      ],
+      "sidebar_border": [
+        68,
+        71,
+        90
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}

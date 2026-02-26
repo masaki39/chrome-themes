@@ -1,0 +1,299 @@
+{
+  "version": "1.0",
+  "themes": [
+    {
+      "id": "tokyo-night",
+      "name": "Tokyo Night",
+      "description": "A clean dark theme inspired by the Tokyo Night color palette",
+      "dark": true,
+      "palette": {
+        "bg":           "#1a1b26",
+        "bg_alt":       "#16161e",
+        "bg_highlight": "#292e42",
+        "fg":           "#a9b1d6",
+        "fg_muted":     "#565f89",
+        "accent":       "#7aa2f7"
+      }
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "description": "A dark theme with vibrant purple and pink accents",
+      "dark": true,
+      "palette": {
+        "bg":           "#282a36",
+        "bg_alt":       "#21222c",
+        "bg_highlight": "#44475a",
+        "fg":           "#f8f8f2",
+        "fg_muted":     "#6272a4",
+        "accent":       "#bd93f9"
+      }
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "description": "An arctic, north-bluish color palette",
+      "dark": true,
+      "palette": {
+        "bg":           "#2e3440",
+        "bg_alt":       "#3b4252",
+        "bg_highlight": "#434c5e",
+        "fg":           "#eceff4",
+        "fg_muted":     "#7b88a1",
+        "accent":       "#88c0d0"
+      }
+    },
+    {
+      "id": "gruvbox-dark",
+      "name": "Gruvbox Dark",
+      "description": "Retro groove dark theme with warm earthy tones",
+      "dark": true,
+      "palette": {
+        "bg":           "#282828",
+        "bg_alt":       "#1d2021",
+        "bg_highlight": "#3c3836",
+        "fg":           "#ebdbb2",
+        "fg_muted":     "#928374",
+        "accent":       "#fabd2f"
+      }
+    },
+    {
+      "id": "one-dark",
+      "name": "One Dark",
+      "description": "Atom's iconic professional dark theme",
+      "dark": true,
+      "palette": {
+        "bg":           "#282c34",
+        "bg_alt":       "#21252b",
+        "bg_highlight": "#3e4451",
+        "fg":           "#abb2bf",
+        "fg_muted":     "#5c6370",
+        "accent":       "#61afef"
+      }
+    },
+    {
+      "id": "monokai",
+      "name": "Monokai",
+      "description": "Classic vibrant dark theme beloved by developers",
+      "dark": true,
+      "palette": {
+        "bg":           "#272822",
+        "bg_alt":       "#1e1f1c",
+        "bg_highlight": "#3e3d32",
+        "fg":           "#f8f8f2",
+        "fg_muted":     "#75715e",
+        "accent":       "#a6e22e"
+      }
+    },
+    {
+      "id": "catppuccin-mocha",
+      "name": "Catppuccin Mocha",
+      "description": "Warm dark theme with soothing pastel colors",
+      "dark": true,
+      "palette": {
+        "bg":           "#1e1e2e",
+        "bg_alt":       "#181825",
+        "bg_highlight": "#313244",
+        "fg":           "#cdd6f4",
+        "fg_muted":     "#6c7086",
+        "accent":       "#cba6f7"
+      }
+    },
+    {
+      "id": "material-dark",
+      "name": "Material Dark",
+      "description": "Material Design inspired dark theme",
+      "dark": true,
+      "palette": {
+        "bg":           "#212121",
+        "bg_alt":       "#1a1a1a",
+        "bg_highlight": "#383838",
+        "fg":           "#eeffff",
+        "fg_muted":     "#546e7a",
+        "accent":       "#80cbc4"
+      }
+    },
+    {
+      "id": "palenight",
+      "name": "Palenight",
+      "description": "Material theme with elegant purple tones",
+      "dark": true,
+      "palette": {
+        "bg":           "#292d3e",
+        "bg_alt":       "#1b1e2b",
+        "bg_highlight": "#3c4055",
+        "fg":           "#a6accd",
+        "fg_muted":     "#676e95",
+        "accent":       "#c792ea"
+      }
+    },
+    {
+      "id": "rose-pine",
+      "name": "Rosé Pine",
+      "description": "Warm and romantic dark theme with muted colors",
+      "dark": true,
+      "palette": {
+        "bg":           "#191724",
+        "bg_alt":       "#1f1d2e",
+        "bg_highlight": "#26233a",
+        "fg":           "#e0def4",
+        "fg_muted":     "#6e6a86",
+        "accent":       "#ebbcba"
+      }
+    },
+    {
+      "id": "synthwave-84",
+      "name": "SynthWave '84",
+      "description": "80s neon retro cyberpunk aesthetic",
+      "dark": true,
+      "palette": {
+        "bg":           "#2a2139",
+        "bg_alt":       "#241b2f",
+        "bg_highlight": "#3c2d51",
+        "fg":           "#ffffff",
+        "fg_muted":     "#848bbd",
+        "accent":       "#ff7edb"
+      }
+    },
+    {
+      "id": "everforest-dark",
+      "name": "Everforest Dark",
+      "description": "Comfortable green-based dark theme inspired by nature",
+      "dark": true,
+      "palette": {
+        "bg":           "#2d353b",
+        "bg_alt":       "#272e33",
+        "bg_highlight": "#3d484d",
+        "fg":           "#d3c6aa",
+        "fg_muted":     "#7a8478",
+        "accent":       "#a7c080"
+      }
+    },
+    {
+      "id": "kanagawa",
+      "name": "Kanagawa",
+      "description": "Japanese woodblock print inspired dark theme",
+      "dark": true,
+      "palette": {
+        "bg":           "#1f1f28",
+        "bg_alt":       "#16161d",
+        "bg_highlight": "#2a2a37",
+        "fg":           "#dcd7ba",
+        "fg_muted":     "#727169",
+        "accent":       "#7e9cd8"
+      }
+    },
+    {
+      "id": "ayu-dark",
+      "name": "Ayu Dark",
+      "description": "Modern dark theme with vibrant orange accents",
+      "dark": true,
+      "palette": {
+        "bg":           "#0d1017",
+        "bg_alt":       "#131721",
+        "bg_highlight": "#1f2430",
+        "fg":           "#bfbdb6",
+        "fg_muted":     "#5c6773",
+        "accent":       "#ff8f40"
+      }
+    },
+    {
+      "id": "github-dark",
+      "name": "GitHub Dark",
+      "description": "GitHub's official dark theme",
+      "dark": true,
+      "palette": {
+        "bg":           "#0d1117",
+        "bg_alt":       "#161b22",
+        "bg_highlight": "#21262d",
+        "fg":           "#c9d1d9",
+        "fg_muted":     "#484f58",
+        "accent":       "#58a6ff"
+      }
+    },
+    {
+      "id": "solarized-dark",
+      "name": "Solarized Dark",
+      "description": "Scientifically designed dark theme with precision",
+      "dark": true,
+      "palette": {
+        "bg":           "#002b36",
+        "bg_alt":       "#073642",
+        "bg_highlight": "#0d4756",
+        "fg":           "#839496",
+        "fg_muted":     "#586e75",
+        "accent":       "#268bd2"
+      }
+    },
+    {
+      "id": "solarized-light",
+      "name": "Solarized Light",
+      "description": "Scientifically designed light theme with precision",
+      "dark": false,
+      "palette": {
+        "bg":           "#fdf6e3",
+        "bg_alt":       "#eee8d5",
+        "bg_highlight": "#e4dcc8",
+        "fg":           "#657b83",
+        "fg_muted":     "#93a1a1",
+        "accent":       "#268bd2"
+      }
+    },
+    {
+      "id": "gruvbox-light",
+      "name": "Gruvbox Light",
+      "description": "Retro groove light theme with warm earthy tones",
+      "dark": false,
+      "palette": {
+        "bg":           "#fbf1c7",
+        "bg_alt":       "#f2e5bc",
+        "bg_highlight": "#ebdbb2",
+        "fg":           "#3c3836",
+        "fg_muted":     "#928374",
+        "accent":       "#b57614"
+      }
+    },
+    {
+      "id": "catppuccin-latte",
+      "name": "Catppuccin Latte",
+      "description": "Light Catppuccin with warm pastel tones",
+      "dark": false,
+      "palette": {
+        "bg":           "#eff1f5",
+        "bg_alt":       "#e6e9ef",
+        "bg_highlight": "#dce0e8",
+        "fg":           "#4c4f69",
+        "fg_muted":     "#9ca0b0",
+        "accent":       "#8839ef"
+      }
+    },
+    {
+      "id": "github-light",
+      "name": "GitHub Light",
+      "description": "GitHub's official light theme",
+      "dark": false,
+      "palette": {
+        "bg":           "#ffffff",
+        "bg_alt":       "#f6f8fa",
+        "bg_highlight": "#eaeef2",
+        "fg":           "#24292f",
+        "fg_muted":     "#8c959f",
+        "accent":       "#0969da"
+      }
+    },
+    {
+      "id": "rose-pine-dawn",
+      "name": "Rosé Pine Dawn",
+      "description": "Warm romantic light theme with soft pastel colors",
+      "dark": false,
+      "palette": {
+        "bg":           "#faf4ed",
+        "bg_alt":       "#fffaf3",
+        "bg_highlight": "#f2e9e1",
+        "fg":           "#575279",
+        "fg_muted":     "#9893a5",
+        "accent":       "#d7827e"
+      }
+    }
+  ]
+}

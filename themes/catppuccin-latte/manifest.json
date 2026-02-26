@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Catppuccin Latte Theme",
+  "description": "Light Catppuccin with warm pastel tones",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        239,
+        241,
+        245
+      ],
+      "frame_inactive": [
+        230,
+        233,
+        239
+      ],
+      "frame_incognito": [
+        220,
+        224,
+        232
+      ],
+      "frame_incognito_inactive": [
+        211,
+        216,
+        226
+      ],
+      "toolbar": [
+        230,
+        233,
+        239
+      ],
+      "toolbar_text": [
+        76,
+        79,
+        105
+      ],
+      "toolbar_button_icon": [
+        156,
+        160,
+        176
+      ],
+      "tab_text": [
+        136,
+        57,
+        239
+      ],
+      "tab_background_text": [
+        76,
+        79,
+        105
+      ],
+      "background_tab": [
+        230,
+        233,
+        239
+      ],
+      "background_tab_text": [
+        156,
+        160,
+        176
+      ],
+      "background_tab_inactive": [
+        230,
+        233,
+        239
+      ],
+      "background_tab_incognito": [
+        220,
+        224,
+        232
+      ],
+      "background_tab_incognito_inactive": [
+        220,
+        224,
+        232
+      ],
+      "ntp_background": [
+        239,
+        241,
+        245
+      ],
+      "ntp_text": [
+        76,
+        79,
+        105
+      ],
+      "ntp_link": [
+        136,
+        57,
+        239
+      ],
+      "ntp_section": [
+        220,
+        224,
+        232
+      ],
+      "ntp_section_text": [
+        156,
+        160,
+        176
+      ],
+      "ntp_header": [
+        136,
+        57,
+        239
+      ],
+      "omnibox_background": [
+        230,
+        233,
+        239
+      ],
+      "omnibox_text": [
+        76,
+        79,
+        105
+      ],
+      "omnibox_results_background": [
+        230,
+        233,
+        239
+      ],
+      "omnibox_results_background_hovered": [
+        220,
+        224,
+        232
+      ],
+      "omnibox_results_background_selected": [
+        208,
+        186,
+        243
+      ],
+      "omnibox_results_text": [
+        76,
+        79,
+        105
+      ],
+      "omnibox_results_url": [
+        136,
+        57,
+        239
+      ],
+      "omnibox_results_text_dimmed": [
+        156,
+        160,
+        176
+      ],
+      "bookmark_text": [
+        136,
+        57,
+        239
+      ],
+      "button_background": [
+        220,
+        224,
+        232
+      ],
+      "control_button_background": [
+        220,
+        224,
+        232
+      ],
+      "sidebar_background": [
+        230,
+        233,
+        239
+      ],
+      "sidebar_text": [
+        76,
+        79,
+        105
+      ],
+      "sidebar_border": [
+        220,
+        224,
+        232
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 0
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Gruvbox Light Theme",
+  "description": "Retro groove light theme with warm earthy tones",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        251,
+        241,
+        199
+      ],
+      "frame_inactive": [
+        250,
+        237,
+        185
+      ],
+      "frame_incognito": [
+        235,
+        219,
+        178
+      ],
+      "frame_incognito_inactive": [
+        232,
+        213,
+        166
+      ],
+      "toolbar": [
+        242,
+        229,
+        188
+      ],
+      "toolbar_text": [
+        60,
+        56,
+        54
+      ],
+      "toolbar_button_icon": [
+        146,
+        131,
+        116
+      ],
+      "tab_text": [
+        181,
+        118,
+        20
+      ],
+      "tab_background_text": [
+        60,
+        56,
+        54
+      ],
+      "background_tab": [
+        242,
+        229,
+        188
+      ],
+      "background_tab_text": [
+        146,
+        131,
+        116
+      ],
+      "background_tab_inactive": [
+        242,
+        229,
+        188
+      ],
+      "background_tab_incognito": [
+        235,
+        219,
+        178
+      ],
+      "background_tab_incognito_inactive": [
+        235,
+        219,
+        178
+      ],
+      "ntp_background": [
+        251,
+        241,
+        199
+      ],
+      "ntp_text": [
+        60,
+        56,
+        54
+      ],
+      "ntp_link": [
+        181,
+        118,
+        20
+      ],
+      "ntp_section": [
+        235,
+        219,
+        178
+      ],
+      "ntp_section_text": [
+        146,
+        131,
+        116
+      ],
+      "ntp_header": [
+        181,
+        118,
+        20
+      ],
+      "omnibox_background": [
+        242,
+        229,
+        188
+      ],
+      "omnibox_text": [
+        60,
+        56,
+        54
+      ],
+      "omnibox_results_background": [
+        242,
+        229,
+        188
+      ],
+      "omnibox_results_background_hovered": [
+        235,
+        219,
+        178
+      ],
+      "omnibox_results_background_selected": [
+        230,
+        204,
+        145
+      ],
+      "omnibox_results_text": [
+        60,
+        56,
+        54
+      ],
+      "omnibox_results_url": [
+        181,
+        118,
+        20
+      ],
+      "omnibox_results_text_dimmed": [
+        146,
+        131,
+        116
+      ],
+      "bookmark_text": [
+        181,
+        118,
+        20
+      ],
+      "button_background": [
+        235,
+        219,
+        178
+      ],
+      "control_button_background": [
+        235,
+        219,
+        178
+      ],
+      "sidebar_background": [
+        242,
+        229,
+        188
+      ],
+      "sidebar_text": [
+        60,
+        56,
+        54
+      ],
+      "sidebar_border": [
+        235,
+        219,
+        178
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 0
+    }
+  }
+}

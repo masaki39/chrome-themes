@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Rosé Pine Dawn Theme",
+  "description": "Warm romantic light theme with soft pastel colors",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        250,
+        244,
+        237
+      ],
+      "frame_inactive": [
+        247,
+        237,
+        225
+      ],
+      "frame_incognito": [
+        242,
+        233,
+        225
+      ],
+      "frame_incognito_inactive": [
+        237,
+        225,
+        214
+      ],
+      "toolbar": [
+        255,
+        250,
+        243
+      ],
+      "toolbar_text": [
+        87,
+        82,
+        121
+      ],
+      "toolbar_button_icon": [
+        152,
+        147,
+        165
+      ],
+      "tab_text": [
+        215,
+        130,
+        126
+      ],
+      "tab_background_text": [
+        87,
+        82,
+        121
+      ],
+      "background_tab": [
+        255,
+        250,
+        243
+      ],
+      "background_tab_text": [
+        152,
+        147,
+        165
+      ],
+      "background_tab_inactive": [
+        255,
+        250,
+        243
+      ],
+      "background_tab_incognito": [
+        242,
+        233,
+        225
+      ],
+      "background_tab_incognito_inactive": [
+        242,
+        233,
+        225
+      ],
+      "ntp_background": [
+        250,
+        244,
+        237
+      ],
+      "ntp_text": [
+        87,
+        82,
+        121
+      ],
+      "ntp_link": [
+        215,
+        130,
+        126
+      ],
+      "ntp_section": [
+        242,
+        233,
+        225
+      ],
+      "ntp_section_text": [
+        152,
+        147,
+        165
+      ],
+      "ntp_header": [
+        215,
+        130,
+        126
+      ],
+      "omnibox_background": [
+        255,
+        250,
+        243
+      ],
+      "omnibox_text": [
+        87,
+        82,
+        121
+      ],
+      "omnibox_results_background": [
+        255,
+        250,
+        243
+      ],
+      "omnibox_results_background_hovered": [
+        242,
+        233,
+        225
+      ],
+      "omnibox_results_background_selected": [
+        240,
+        210,
+        204
+      ],
+      "omnibox_results_text": [
+        87,
+        82,
+        121
+      ],
+      "omnibox_results_url": [
+        215,
+        130,
+        126
+      ],
+      "omnibox_results_text_dimmed": [
+        152,
+        147,
+        165
+      ],
+      "bookmark_text": [
+        215,
+        130,
+        126
+      ],
+      "button_background": [
+        242,
+        233,
+        225
+      ],
+      "control_button_background": [
+        242,
+        233,
+        225
+      ],
+      "sidebar_background": [
+        255,
+        250,
+        243
+      ],
+      "sidebar_text": [
+        87,
+        82,
+        121
+      ],
+      "sidebar_border": [
+        242,
+        233,
+        225
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 0
+    }
+  }
+}

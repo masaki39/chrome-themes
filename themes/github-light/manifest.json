@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "GitHub Light Theme",
+  "description": "GitHub's official light theme",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        255,
+        255,
+        255
+      ],
+      "frame_inactive": [
+        247,
+        247,
+        247
+      ],
+      "frame_incognito": [
+        234,
+        238,
+        242
+      ],
+      "frame_incognito_inactive": [
+        225,
+        230,
+        236
+      ],
+      "toolbar": [
+        246,
+        248,
+        250
+      ],
+      "toolbar_text": [
+        36,
+        41,
+        47
+      ],
+      "toolbar_button_icon": [
+        140,
+        149,
+        159
+      ],
+      "tab_text": [
+        9,
+        105,
+        218
+      ],
+      "tab_background_text": [
+        36,
+        41,
+        47
+      ],
+      "background_tab": [
+        246,
+        248,
+        250
+      ],
+      "background_tab_text": [
+        140,
+        149,
+        159
+      ],
+      "background_tab_inactive": [
+        246,
+        248,
+        250
+      ],
+      "background_tab_incognito": [
+        234,
+        238,
+        242
+      ],
+      "background_tab_incognito_inactive": [
+        234,
+        238,
+        242
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "ntp_text": [
+        36,
+        41,
+        47
+      ],
+      "ntp_link": [
+        9,
+        105,
+        218
+      ],
+      "ntp_section": [
+        234,
+        238,
+        242
+      ],
+      "ntp_section_text": [
+        140,
+        149,
+        159
+      ],
+      "ntp_header": [
+        9,
+        105,
+        218
+      ],
+      "omnibox_background": [
+        246,
+        248,
+        250
+      ],
+      "omnibox_text": [
+        36,
+        41,
+        47
+      ],
+      "omnibox_results_background": [
+        246,
+        248,
+        250
+      ],
+      "omnibox_results_background_hovered": [
+        234,
+        238,
+        242
+      ],
+      "omnibox_results_background_selected": [
+        181,
+        210,
+        244
+      ],
+      "omnibox_results_text": [
+        36,
+        41,
+        47
+      ],
+      "omnibox_results_url": [
+        9,
+        105,
+        218
+      ],
+      "omnibox_results_text_dimmed": [
+        140,
+        149,
+        159
+      ],
+      "bookmark_text": [
+        9,
+        105,
+        218
+      ],
+      "button_background": [
+        234,
+        238,
+        242
+      ],
+      "control_button_background": [
+        234,
+        238,
+        242
+      ],
+      "sidebar_background": [
+        246,
+        248,
+        250
+      ],
+      "sidebar_text": [
+        36,
+        41,
+        47
+      ],
+      "sidebar_border": [
+        234,
+        238,
+        242
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 0
+    }
+  }
+}

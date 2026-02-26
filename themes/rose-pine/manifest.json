@@ -1,0 +1,184 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Rosé Pine Theme",
+  "description": "Warm and romantic dark theme with muted colors",
+  "author": "masaki39",
+  "theme": {
+    "colors": {
+      "frame": [
+        25,
+        23,
+        36
+      ],
+      "frame_inactive": [
+        31,
+        29,
+        45
+      ],
+      "frame_incognito": [
+        38,
+        35,
+        58
+      ],
+      "frame_incognito_inactive": [
+        44,
+        41,
+        68
+      ],
+      "toolbar": [
+        31,
+        29,
+        46
+      ],
+      "toolbar_text": [
+        224,
+        222,
+        244
+      ],
+      "toolbar_button_icon": [
+        110,
+        106,
+        134
+      ],
+      "tab_text": [
+        235,
+        188,
+        186
+      ],
+      "tab_background_text": [
+        224,
+        222,
+        244
+      ],
+      "background_tab": [
+        31,
+        29,
+        46
+      ],
+      "background_tab_text": [
+        110,
+        106,
+        134
+      ],
+      "background_tab_inactive": [
+        31,
+        29,
+        46
+      ],
+      "background_tab_incognito": [
+        38,
+        35,
+        58
+      ],
+      "background_tab_incognito_inactive": [
+        38,
+        35,
+        58
+      ],
+      "ntp_background": [
+        25,
+        23,
+        36
+      ],
+      "ntp_text": [
+        224,
+        222,
+        244
+      ],
+      "ntp_link": [
+        235,
+        188,
+        186
+      ],
+      "ntp_section": [
+        38,
+        35,
+        58
+      ],
+      "ntp_section_text": [
+        110,
+        106,
+        134
+      ],
+      "ntp_header": [
+        235,
+        188,
+        186
+      ],
+      "omnibox_background": [
+        31,
+        29,
+        46
+      ],
+      "omnibox_text": [
+        224,
+        222,
+        244
+      ],
+      "omnibox_results_background": [
+        31,
+        29,
+        46
+      ],
+      "omnibox_results_background_hovered": [
+        38,
+        35,
+        58
+      ],
+      "omnibox_results_background_selected": [
+        88,
+        73,
+        81
+      ],
+      "omnibox_results_text": [
+        224,
+        222,
+        244
+      ],
+      "omnibox_results_url": [
+        235,
+        188,
+        186
+      ],
+      "omnibox_results_text_dimmed": [
+        110,
+        106,
+        134
+      ],
+      "bookmark_text": [
+        235,
+        188,
+        186
+      ],
+      "button_background": [
+        38,
+        35,
+        58
+      ],
+      "control_button_background": [
+        38,
+        35,
+        58
+      ],
+      "sidebar_background": [
+        31,
+        29,
+        46
+      ],
+      "sidebar_text": [
+        224,
+        222,
+        244
+      ],
+      "sidebar_border": [
+        38,
+        35,
+        58
+      ]
+    },
+    "properties": {
+      "ntp_logo_alternate": 1
+    }
+  }
+}
