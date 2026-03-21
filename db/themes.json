@@ -13,7 +13,8 @@
         "fg":           "#a9b1d6",
         "fg_muted":     "#565f89",
         "accent":       "#7aa2f7",
-        "accent2":      "#bb9af7"
+        "accent2":      "#bb9af7",
+        "accent3":      "#f7768e"
       }
     },
     {
@@ -28,7 +29,8 @@
         "fg":           "#f8f8f2",
         "fg_muted":     "#6272a4",
         "accent":       "#bd93f9",
-        "accent2":      "#ff79c6"
+        "accent2":      "#ff79c6",
+        "accent3":      "#ff5555"
       }
     },
     {
@@ -43,7 +45,8 @@
         "fg":           "#eceff4",
         "fg_muted":     "#7b88a1",
         "accent":       "#88c0d0",
-        "accent2":      "#b48ead"
+        "accent2":      "#b48ead",
+        "accent3":      "#bf616a"
       }
     },
     {
@@ -58,7 +61,8 @@
         "fg":           "#ebdbb2",
         "fg_muted":     "#928374",
         "accent":       "#fabd2f",
-        "accent2":      "#fb4934"
+        "accent2":      "#fb4934",
+        "accent3":      "#fe8019"
       }
     },
     {
@@ -73,7 +77,8 @@
         "fg":           "#abb2bf",
         "fg_muted":     "#5c6370",
         "accent":       "#61afef",
-        "accent2":      "#c678dd"
+        "accent2":      "#c678dd",
+        "accent3":      "#e06c75"
       }
     },
     {
@@ -88,7 +93,8 @@
         "fg":           "#f8f8f2",
         "fg_muted":     "#75715e",
         "accent":       "#a6e22e",
-        "accent2":      "#f92672"
+        "accent2":      "#f92672",
+        "accent3":      "#fd971f"
       }
     },
     {
@@ -103,7 +109,8 @@
         "fg":           "#cdd6f4",
         "fg_muted":     "#6c7086",
         "accent":       "#cba6f7",
-        "accent2":      "#f38ba8"
+        "accent2":      "#f38ba8",
+        "accent3":      "#fab387"
       }
     },
     {
@@ -118,7 +125,8 @@
         "fg":           "#eeffff",
         "fg_muted":     "#546e7a",
         "accent":       "#80cbc4",
-        "accent2":      "#c792ea"
+        "accent2":      "#c792ea",
+        "accent3":      "#f07178"
       }
     },
     {
@@ -133,7 +141,8 @@
         "fg":           "#a6accd",
         "fg_muted":     "#676e95",
         "accent":       "#c792ea",
-        "accent2":      "#82aaff"
+        "accent2":      "#82aaff",
+        "accent3":      "#f07178"
       }
     },
     {
@@ -148,7 +157,8 @@
         "fg":           "#e0def4",
         "fg_muted":     "#6e6a86",
         "accent":       "#ebbcba",
-        "accent2":      "#c4a7e7"
+        "accent2":      "#c4a7e7",
+        "accent3":      "#eb6f92"
       }
     },
     {
@@ -163,7 +173,8 @@
         "fg":           "#ffffff",
         "fg_muted":     "#848bbd",
         "accent":       "#ff7edb",
-        "accent2":      "#36f9f6"
+        "accent2":      "#36f9f6",
+        "accent3":      "#fe4450"
       }
     },
     {
@@ -178,7 +189,8 @@
         "fg":           "#d3c6aa",
         "fg_muted":     "#7a8478",
         "accent":       "#a7c080",
-        "accent2":      "#e67e80"
+        "accent2":      "#e67e80",
+        "accent3":      "#dbbc7f"
       }
     },
     {
@@ -193,7 +205,8 @@
         "fg":           "#dcd7ba",
         "fg_muted":     "#727169",
         "accent":       "#7e9cd8",
-        "accent2":      "#957fb8"
+        "accent2":      "#957fb8",
+        "accent3":      "#c34043"
       }
     },
     {
@@ -208,7 +221,8 @@
         "fg":           "#bfbdb6",
         "fg_muted":     "#5c6773",
         "accent":       "#ff8f40",
-        "accent2":      "#59c2ff"
+        "accent2":      "#59c2ff",
+        "accent3":      "#f26d78"
       }
     },
     {
@@ -223,7 +237,8 @@
         "fg":           "#c9d1d9",
         "fg_muted":     "#484f58",
         "accent":       "#58a6ff",
-        "accent2":      "#bc8cff"
+        "accent2":      "#bc8cff",
+        "accent3":      "#f78166"
       }
     },
     {
@@ -238,7 +253,8 @@
         "fg":           "#839496",
         "fg_muted":     "#586e75",
         "accent":       "#268bd2",
-        "accent2":      "#2aa198"
+        "accent2":      "#2aa198",
+        "accent3":      "#dc322f"
       }
     },
     {
@@ -253,7 +269,8 @@
         "fg":           "#657b83",
         "fg_muted":     "#93a1a1",
         "accent":       "#268bd2",
-        "accent2":      "#2aa198"
+        "accent2":      "#2aa198",
+        "accent3":      "#dc322f"
       }
     },
     {
@@ -268,7 +285,8 @@
         "fg":           "#3c3836",
         "fg_muted":     "#928374",
         "accent":       "#b57614",
-        "accent2":      "#9d0006"
+        "accent2":      "#9d0006",
+        "accent3":      "#cc241d"
       }
     },
     {
@@ -283,7 +301,8 @@
         "fg":           "#4c4f69",
         "fg_muted":     "#9ca0b0",
         "accent":       "#8839ef",
-        "accent2":      "#d20f39"
+        "accent2":      "#d20f39",
+        "accent3":      "#e64553"
       }
     },
     {
@@ -298,7 +317,8 @@
         "fg":           "#24292f",
         "fg_muted":     "#8c959f",
         "accent":       "#0969da",
-        "accent2":      "#8250df"
+        "accent2":      "#8250df",
+        "accent3":      "#cf222e"
       }
     },
     {
@@ -313,7 +333,8 @@
         "fg":           "#575279",
         "fg_muted":     "#9893a5",
         "accent":       "#d7827e",
-        "accent2":      "#b4637a"
+        "accent2":      "#b4637a",
+        "accent3":      "#eb6f92"
       }
     }
   ]
